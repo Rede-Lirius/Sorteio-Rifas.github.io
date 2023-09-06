@@ -188,11 +188,11 @@ section {
     padding: 4rem;
     background-color: var(--white);
     border-radius: 2rem;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgb(109, 100, 111) 0px 7px 29px 0px;
 }
 
 .food-menu h1 {
-    color: #7a7a7b;
+    color: #152547;
 }
 
 .food-menu p {
