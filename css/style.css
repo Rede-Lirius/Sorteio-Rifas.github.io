@@ -1,6 +1,6 @@
 :root {
     --primary-color: #0F9D58;
-    --background-color: #f0f3f7;
+    --background-color: #8b15a8;
     --secon-color: #9da2ad;
     --grey: #7a7a7b;
     --white: #ffffff;
@@ -48,7 +48,7 @@ html {
 .logo {
     font-size: 2rem;
     font-weight: 800;
-    color: #53298a;
+    color: #ffffff;
 }
 
 .menu {
@@ -58,10 +58,10 @@ html {
 }
 
 .menu-item {
-    margin-left: 1rem;
+    margin-left: 8rem;
     padding: .5rem 1.5rem;
     font-weight: 600;
-    color: #53298a;
+    color: #152547;
     transition: .5s ease-in-out;
     cursor: pointer;
 }
@@ -79,7 +79,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #53298a;
+    color: #000000;
     font-size: 2rem;
     cursor: pointer;
     transition: .5s ease-in-out;
@@ -139,7 +139,7 @@ section {
     background-color: var(--background-color);
     border: .125rem solid #53298a;
     border-radius: 2rem;
-    color: #53298a;
+    color: #000000;
     margin: 3rem 0;
     cursor: pointer;
     font-weight: 600;
@@ -185,18 +185,18 @@ section {
 }
 
 .food-menu {
-    padding: 4rem;
+    padding: 20rem;
     background-color: var(--white);
     border-radius: 2rem;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgb(109, 100, 111) 0px 7px 29px 0px;
 }
 
 .food-menu h1 {
-    color: #7a7a7b;
+    color: #152547;
 }
 
 .food-menu p {
-    margin: 2rem 0;
+    margin: 6rem 0;
 }
 
 .food-category {
