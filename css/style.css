@@ -276,7 +276,7 @@ section {
    
 }
     .item-info h3 {
-    color: #7a7a7b;
+    color: #8b15a8;
 }
 
 .item-info>div:first-child {
@@ -297,7 +297,7 @@ section {
 
 .review-content {
     padding: 3rem;
-    border-bottom: .125rem solid #7a7a7b;
+    border-bottom: .125rem solid 7;
     position: relative;
     text-align: center;
 }
