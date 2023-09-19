@@ -22,7 +22,7 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](
 
 ## Contato
 
-Para entrar em contato conosco em relação ao site da Rede Lirius, você pode nos enviar uma mensagem 33 98680303 ou visitar nosso site em [redeliriusgithub.io](https://redeliriusgithub.io/).
+Para entrar em contato conosco em relação ao site da Rede Lirius, você pode nos enviar uma mensagem (https://api.whatsapp.com/send/?phone=553398680303&text&type=phone_number&app_absent=0) ou visitar nosso site em [redeliriusgithub.io](https://redeliriusgithub.io/).
 
 
 
