@@ -7,7 +7,7 @@ O site da Rede Lirius é uma plataforma online onde os clientes podem conhecer m
 
 ## Como Usar
 
-1. Clone este repositório:git clone https://https://rede-lirius.github.io/
+1. Clone este repositório:git clone https://rede-lirius.github.io/
 2. Navegue até o diretório do projeto:
 
 3. Abra o arquivo `index.html` em seu navegador ou implante-o em um servidor da web para acessar o site.
