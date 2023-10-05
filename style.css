@@ -372,8 +372,8 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2rem;
-    padding: .5rem;
+    font-size: 4rem;
+    padding: .9rem;
     z-index: 99;
     display: none;
 }
